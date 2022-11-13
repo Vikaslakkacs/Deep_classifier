@@ -1,0 +1,4 @@
+1. Create README.md file then gitignore for Python and LICENSE file
+2. template.py: Helps to create initial structure of project.
+3. .github/workflows/.gitkeep: This file helps to push empty folders also to git.
+4. init_setup.sh: will create shell script where we can automate regular taasks.
