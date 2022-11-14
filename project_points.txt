@@ -3,7 +3,8 @@
 3. .github/workflows/.gitkeep: This file helps to push empty folders also to git.
 4. init_setup.sh: will create shell script where we can automate regular taasks.
 
--> setup.py
--> setup.cgf
+-> setup.py: What ever it is written on the left panel of pypi.org package details, they are coming from setup.cfg(details, links etc.,)
+
+-> setup.cgf: Same as above and they are combined
 ->pyproject.toml
 ->
