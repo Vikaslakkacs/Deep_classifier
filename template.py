@@ -19,6 +19,7 @@ list_of_files = [
     "tests/integration/__init__.py",
     "configs/config.yaml",
     "dvc.yaml",
+    "params.yaml",
     "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
