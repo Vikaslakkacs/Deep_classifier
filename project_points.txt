@@ -8,3 +8,4 @@
 -> setup.cgf: Same as above and they are combined
 ->pyproject.toml
 ->init_setup.sh: For creating environment there are two fiels windows and mac m1 (run it through bash init_setup.sh)
+-> common functions in utils->common.py
