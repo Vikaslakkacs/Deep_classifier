@@ -13,3 +13,5 @@
 9. Run tox for testing package
 10. update dvc.yaml
 11. run "dvc repro" command(reproduce) for running all stages in pipeline
+
+![img](https://raw.githubusercontent.com/Vikaslakkacs/Deep_classifier/4a93274b8f2140c657e37646c6ec747c9d975451/docs/images/Data%20Ingestion%402x%20(1).png)

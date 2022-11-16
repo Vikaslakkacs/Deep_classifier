@@ -134,3 +134,6 @@ dmypy.json
 #image
 *.jpg
 *.zip
+
+##Ds store
+*.DS_Store
