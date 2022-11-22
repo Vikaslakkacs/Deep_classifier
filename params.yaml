@@ -1,1 +1,8 @@
-key: value
+AUGMENTATION: True
+IMAGE_SIZE: [224, 224, 3] # Input shape of Vgg16
+BATCH_SIZE: 16
+INCLUDE_TOP: False
+EPOCHS: 1
+CLASSES: 2
+WEIGHTS: imagenet #imagenet is a dataset and vgg is pre trained on imagenet
+LEARNING_RATE: 0.01
